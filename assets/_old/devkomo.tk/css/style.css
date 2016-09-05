@@ -1,0 +1,78 @@
+/* CSS for RESPONSIVE SITE
+by DEVKOMO - Kow Ahenasi Amonoo
+http://www.devkomo.tk/
+*/
+
+/*==========  Fonts  ==========*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #338839;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+/*==========  /Fonts  ==========*/
+
+
+/*==========  Navigation  ==========*/
+.brand {
+    bottom: 0.2em;
+    font-weight: 500;
+    position: relative;
+
+}
+.navbar-header img {
+    bottom: 0.4em;
+    display: inline;
+    position: relative;
+}
+.navbar-inverse {
+    background-color: #336638;
+    border-bottom-color: #336638;
+}
+/*==========  /Navigation  ==========*/
+
+
+/*==========  Jumbotron  ==========*/
+.btn {
+    border-radius: 0;
+}
+
+.jumbotron {
+    background: #eee url('../img/home-bg.png')no-repeat;
+    background-size: cover;
+    min-height: 25em;
+}
+/*==========  /Jumbotron  ==========*/
+
+
+/*==========  Media Queries  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+/*==========  /Media Queries  ==========*/
